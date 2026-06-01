@@ -103,8 +103,6 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 
 ## Beyond the Code
 
-I am passionate about exploring Artificial Intelligence through research, experimentation, and practical applications.
-
-Currently focused on strengthening my expertise in Machine Learning, Deep Learning, and Computer Vision while building intelligent systems that solve meaningful real-world problems.
+I am interested in understanding how intelligent systems learn and make decisions from data. I am currently exploring Generative AI concepts such as large language models, RAG, and fine-tuning, while strengthening my foundation in machine learning and deep learning. My focus is on building practical knowledge and gradually applying these concepts to real-world AI problems.
 
 Open to AI/ML internships, research opportunities, and collaborations.
