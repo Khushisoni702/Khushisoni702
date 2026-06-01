@@ -69,8 +69,8 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
 
-
 ---
+
 ## Github Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khushisoni702&show_icons=true&theme=tokyonight" />
@@ -79,6 +79,7 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Khushisoni702&theme=tokyonight" />
 </p>
+
 ---
 
 ## Connect
