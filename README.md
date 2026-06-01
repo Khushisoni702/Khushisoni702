@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="Banner.png" alt="Banner" width="100%">
 </p>
 
 # Hi, I'm Khushi Soni
@@ -15,24 +15,25 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 
 ## About Me
 
-* Fourth-year B.Tech Computer Science & Engineering student at COER University, Roorkee
-* Expected Graduation : 2027
-* Interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science
-* Primarily working with Python for AI/ML development
-* Continuously learning modern AI technologies, model development, and intelligent systems
-* Passionate about building solutions that create meaningful real-world impact
+* 🎓 Fourth-year B.Tech Computer Science & Engineering student at COER University, Roorkee
+* 📅 Expected Graduation : 2027
+* 🤖 Interested in AI, ML, DL, Computer Vision, and Data Science
+* 🐍 Primarily working with Python for AI/ML development
+* 📚 Continuously learning modern AI technologies, model development, and intelligent systems
+* 🚀 Passionate about building solutions that create meaningful real-world impact
 
 ---
 
 ## Current Focus
 
-* Machine Learning & Deep Learning
-* Computer Vision Applications
-* Healthcare AI
-* Data Analysis & Visualization
-* Model Training & Evaluation
-* AI Research & Experimentation
-
+- Machine Learning & Deep Learning
+- Computer Vision Applications
+- Generative AI (LLMs, Prompt Engineering)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Automations
+- Multimodal AI Systems
+- Model Fine-tuning and Optimization
+- Responsible AI and Ethical AI Systems
 ---
 
 ## Tech Stack
@@ -70,17 +71,14 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 
 
 ---
-
-## GitHub Statistics
-
+## Github Statistics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khushisoni702&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushisoni702&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushisoni702&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Khushisoni702&theme=tokyonight" />
 </p>
-
 ---
 
 ## Connect
