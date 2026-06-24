@@ -55,6 +55,7 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-4B8BBE?style=flat-square&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-E57373?style=flat-square&logoColor=white)
 
 ### Data & Analytics
 
