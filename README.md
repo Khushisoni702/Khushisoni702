@@ -2,6 +2,10 @@
   <img src="Banner.png" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=4000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Research+Intern;Advanced+Neural+Architectures;Building+Innovative+AI+Systems" alt="Typing SVG"/>
+</p>
+
 # Hi, I'm Khushi Soni
 
 ### B.Tech Computer Science & Engineering Student
