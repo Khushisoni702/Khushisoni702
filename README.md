@@ -5,9 +5,9 @@
 # Hi, I'm Khushi Soni
 
 ### B.Tech Computer Science & Engineering Student
-Machine Learning • Deep Learning • Computer Vision • Data Science
+Machine Learning • Deep Learning • Computer Vision • Generative AI
 
-I'm a fourth-year Computer Science & Engineering student at COER University, Roorkee, with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science.
+I'm a fourth-year Computer Science & Engineering student at COER University, Roorkee, with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
 I enjoy exploring how intelligent systems can solve real-world problems through data-driven approaches, experimentation, and continuous learning.
 
@@ -17,7 +17,7 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 
 * 🎓 Fourth-year B.Tech Computer Science & Engineering student at COER University, Roorkee
 * 📅 Expected Graduation : 2027
-* 🤖 Interested in AI, ML, DL, Computer Vision, and Data Science
+* 🤖 Interested in AI, ML, DL, Computer Vision, and Generative AI.
 * 🐍 Primarily working with Python for AI/ML development
 * 📚 Continuously learning modern AI technologies, model development, and intelligent systems
 * 🚀 Passionate about building solutions that create meaningful real-world impact
@@ -28,7 +28,7 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 
 - Machine Learning & Deep Learning
 - Computer Vision Applications
-- Generative AI (LLMs, Prompt Engineering)
+- Generative AI & Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents and Automations
 - Multimodal AI Systems
@@ -41,25 +41,27 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 
-### AI / Machine Learning
+### AI / Machine Learning / Deep Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-4B8BBE?style=flat-square&logoColor=white)
 
 ### Data & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white)
 
 ### Development & Deployment Tools
 
