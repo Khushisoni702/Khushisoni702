@@ -38,6 +38,7 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 - Multimodal AI Systems
 - Model Fine-tuning and Optimization
 - Responsible AI and Ethical AI Systems
+
 ---
 
 ## Tech Stack
@@ -76,7 +77,81 @@ I enjoy exploring how intelligent systems can solve real-world problems through 
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
 
+
 ---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+  
+### OsteoDetect
+*Medical Imaging Innovation*
+ 
+AI-powered Bone Tuberculosis detection from X-ray images using ResNet50 and Grad-CAM explainable AI. Achieved **95.69% accuracy** while providing visual explanations for clinical decision-making through heatmap visualizations.
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![ResNet50](https://img.shields.io/badge/ResNet50-4285F4?style=flat&logoColor=white)
+ 
+[Repository](https://github.com/Khushisoni702/OsteoDetect)
+ 
+</td>
+<td width="50%">
+  
+### NeuroVision
+*Medical Imaging Innovation*
+ 
+Advanced brain tumor classification using MobileNetV2 to analyze MRI scans. Classifies 4 tumor categories with **96.54% accuracy**. Integrates Grad-CAM for visual interpretability of tumor regions in medical imaging.
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-4285F4?style=flat&logoColor=white)
+ 
+[Repository](https://github.com/Khushisoni702/NeuroVision)
+ 
+</td>
+</tr>
+<tr>
+<td width="50%">
+  
+### GeoScope-AI
+*Remote Sensing & GIS Innovation*
+ 
+Intelligent satellite image classification using EfficientNetB0 for land-use analysis. Classifies 10 categories with **95.57% accuracy**. Features Streamlit web app with real-time predictions, confidence scores, and downloadable PDF reports.
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![EfficientNetB0](https://img.shields.io/badge/EfficientNetB0-4285F4?style=flat&logoColor=white)
+ 
+[Repository](https://github.com/Khushisoni702/GeoScope-AI) | [Live Demo](https://geoscope-ai.streamlit.app/)
+ 
+</td>
+<td width="50%">
+  
+### ArrhythmiaNet
+*Healthcare AI & Signal Processing*
+ 
+Deep learning ECG arrhythmia classification using hybrid CNN-LSTM architecture. Classifies 5 heartbeat types with **98.61% accuracy**. Integrates SHAP-based explainability to visualize which ECG regions influenced predictions.
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FDB633?style=flat&logoColor=white)
+
+[Repository](https://github.com/Khushisoni702/ArrhythmiaNet)
+ 
+</td>
+</tr>
+</table>
+
+
+---
+
 
 ## Github Statistics
 <p align="center">
