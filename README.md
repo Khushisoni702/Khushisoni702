@@ -14,7 +14,6 @@ Machine Learning • Deep Learning • Computer Vision • Generative AI
 I'm a fourth-year Computer Science & Engineering student at COER University, Roorkee, with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
 I enjoy exploring how intelligent systems can solve real-world problems through data-driven approaches, experimentation, and continuous learning.
-
 ---
 
 ## About Me
